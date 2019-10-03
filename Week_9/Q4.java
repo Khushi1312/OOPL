@@ -40,7 +40,7 @@ class Q4
 		System.out.println("fob average is " + x);
 		System.out.print("Averages of iob and dob ");
 		if(iob.sameAvg(dob))
-			System.out.println("are the same.");
+			System.out.print("are the same.");
 		else
 			System.out.println("differ.");
 		System.out.print("Averages of iob and fob ");
