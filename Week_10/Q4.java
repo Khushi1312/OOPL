@@ -11,7 +11,7 @@ public class Q4 extends Application
 {
 	public void start(Stage s)
 	{
-		s.setTitle("Factorial");
+		s.setTitle("GCD");
 		Label a=new Label("Number 1:");
 		Label b=new Label("Number 2:");
 		Label res=new Label(" ");
